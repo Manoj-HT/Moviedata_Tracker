@@ -1,3 +1,7 @@
+# 5
+
+1. admin dashboard view added
+
 # 4
 
 1. network error, trouble logging, password error views added
