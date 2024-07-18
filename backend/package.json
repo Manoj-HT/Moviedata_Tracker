@@ -1,0 +1,16 @@
+{
+  "name": "moviedata_tracker",
+  "version": "1.0.0",
+  "description": "backend for moviedata tracker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "moviedata",
+    "metadata",
+    "tracker"
+  ],
+  "author": "Manoj-HT",
+  "license": "ISC"
+}
