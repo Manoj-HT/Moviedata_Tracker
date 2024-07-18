@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.17304819"
-     inkscape:cx="8341.6069"
-     inkscape:cy="2141.0221"
+     inkscape:zoom="0.061181775"
+     inkscape:cx="9242.9486"
+     inkscape:cy="4012.6328"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -116,11 +116,667 @@
        y1="-111.73909"
        x2="45.599106"
        y2="-134.1006" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath117">
+      <rect
+         style="fill:#f9f9f9;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect118"
+         width="508"
+         height="285.75"
+         x="184.77209"
+         y="-232.49107" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter117"
+       x="-0.02109375"
+       y="-0.0375"
+       width="1.0421875"
+       height="1.075">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4648438"
+         id="feGaussianBlur117" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter62-6"
+       x="-0.14266948"
+       y="-0.10343538"
+       width="1.285339"
+       height="1.2068708">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.452618"
+         id="feGaussianBlur62-2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62"
+       id="linearGradient116"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(529.53666,-0.66146034)"
+       x1="45.599106"
+       y1="-111.73909"
+       x2="45.599106"
+       y2="-134.1006" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter121"
+       x="-0.083225966"
+       y="-0.2494934"
+       width="1.1664519"
+       height="1.4989868">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.4167692"
+         id="feGaussianBlur121" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath117-7">
+      <rect
+         style="fill:#f9f9f9;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect118-6"
+         width="508"
+         height="285.75"
+         x="184.77209"
+         y="-232.49107" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter117-6"
+       x="-0.02109375"
+       y="-0.0375"
+       width="1.0421875"
+       height="1.075">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4648438"
+         id="feGaussianBlur117-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter62-9"
+       x="-0.14266948"
+       y="-0.10343538"
+       width="1.285339"
+       height="1.2068708">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.452618"
+         id="feGaussianBlur62-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter121-5"
+       x="-0.083225966"
+       y="-0.2494934"
+       width="1.1664519"
+       height="1.4989868">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.4167692"
+         id="feGaussianBlur121-3" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62"
+       id="linearGradient2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(529.53666,-0.66146034)"
+       x1="45.599106"
+       y1="-111.73909"
+       x2="45.599106"
+       y2="-134.1006" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <g
+       id="g139"
+       transform="translate(1640.5624,905.89938)">
+      <g
+         id="g135"
+         transform="translate(1059.0733,0.66146034)"
+         style="stroke:none;filter:url(#filter117-6)"
+         clip-path="url(#clipPath117-7)">
+        <g
+           id="g124"
+           style="stroke:none">
+          <a
+             id="a122"
+             transform="translate(529.53666,-0.66146034)"
+             style="stroke:none">
+            <rect
+               style="fill:#ffffff;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               id="rect122"
+               width="508"
+               height="285.75"
+               x="-344.76447"
+               y="-231.82962">
+              <title
+                 id="title122">Login Screen</title>
+            </rect>
+          </a>
+          <g
+             id="g123"
+             transform="translate(529.53667,644.59041)"
+             style="stroke:none">
+            <path
+               style="fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               d="m -344.76446,-591.33149 c 0,0 77.24113,-80.40296 135.72289,-108.89804 77.94123,-37.97667 179.709674,-28.36809 254.086651,-61.01984 59.238899,-26.00609 118.190449,-115.83212 118.190449,-115.83212 v 285.75 z"
+               id="path122"
+               sodipodi:nodetypes="cssccc" />
+            <path
+               style="fill:#379cff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               d="m -344.76446,-591.33149 c 0,0 133.44854,-57.24584 203.30938,-76.10941 71.535746,-19.31583 159.657591,6.77229 219.11669,-37.44399 51.43326,-38.24794 85.57392,-172.1966 85.57392,-172.1966 v 285.75 z"
+               id="path123"
+               sodipodi:nodetypes="cssccc" />
+          </g>
+        </g>
+        <g
+           id="g134"
+           style="stroke:none">
+          <rect
+             style="opacity:0.264516;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;filter:url(#filter62-9)"
+             id="rect124"
+             width="142.19077"
+             height="196.12518"
+             x="522.18195"
+             y="-178.64505"
+             ry="18.631893" />
+          <g
+             id="g133"
+             style="stroke:none">
+            <rect
+               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               id="rect125"
+               width="142.19077"
+               height="196.12518"
+               x="522.18195"
+               y="-178.64505"
+               ry="18.631893" />
+            <text
+               xml:space="preserve"
+               style="font-weight:bold;font-size:7.09784px;line-height:1.4;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.90121;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="656.65967"
+               y="-139.73058"
+               id="text125"><tspan
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1.90121"
+                 x="656.65967"
+                 y="-139.73058"
+                 id="tspan125">Welcome</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-weight:bold;font-size:16.2798px;line-height:1.4;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:end;text-anchor:end;fill:url(#linearGradient2);fill-opacity:1;stroke:none;stroke-width:4.3607;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="656.56445"
+               y="-122.26092"
+               id="text126"><tspan
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:url(#linearGradient2);fill-opacity:1;stroke:none;stroke-width:4.3607"
+                 x="656.56445"
+                 y="-122.26092"
+                 id="tspan126">Metadata Tracker</tspan></text>
+            <g
+               id="g127"
+               transform="translate(529.53666,1.6014434)"
+               style="stroke:none">
+              <rect
+                 style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+                 id="rect126"
+                 width="121.49438"
+                 height="12.629437"
+                 x="2.9934993"
+                 y="-76.955582"
+                 ry="4.065639" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+                 x="104.92379"
+                 y="-80.088539"
+                 id="text127"><tspan
+                   sodipodi:role="line"
+                   id="tspan127"
+                   style="font-size:5.64444px;text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.79375"
+                   x="104.92379"
+                   y="-80.088539">Email</tspan></text>
+            </g>
+            <rect
+               style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               id="rect127"
+               width="121.49438"
+               height="12.629437"
+               x="532.53015"
+               y="-51.084885"
+               ry="4.065639" />
+            <g
+               id="g128"
+               transform="translate(613.21284,-0.66146034)"
+               style="stroke:none">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+                 x="11.267868"
+                 y="-53.556381"
+                 id="text128"><tspan
+                   sodipodi:role="line"
+                   id="tspan128"
+                   style="font-size:5.64444px;text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.79375"
+                   x="11.267868"
+                   y="-53.556381">Password</tspan></text>
+            </g>
+            <g
+               id="g129"
+               transform="translate(529.53666,25.870698)"
+               onmouseover=""
+               style="stroke:none">
+              <rect
+                 style="opacity:1;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+                 id="rect128"
+                 width="29.123104"
+                 height="9.7077017"
+                 x="95.774269"
+                 y="-56.175316"
+                 ry="2.8603022" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+                 x="102.53077"
+                 y="-49.52243"
+                 id="text129"><tspan
+                   sodipodi:role="line"
+                   id="tspan129"
+                   style="fill:#ffffff;stroke:none;stroke-width:0.79375"
+                   x="102.53077"
+                   y="-49.52243">Submit</tspan></text>
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="599.69427"
+               y="-14.541488"
+               id="text130"><tspan
+                 sodipodi:role="line"
+                 id="tspan130"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Italic';fill:#333333;stroke:none;stroke-width:0.79375"
+                 x="599.69427"
+                 y="-14.541488">Trouble Logging in? Click here</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="540.91962"
+               y="-67.968689"
+               id="text131"><tspan
+                 sodipodi:role="line"
+                 id="tspan131"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#1a1a1a;stroke:none;stroke-width:0.79375"
+                 x="540.91962"
+                 y="-67.968689">manulogan101@gmail.com</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="540.91962"
+               y="-43.7015"
+               id="text132"><tspan
+                 sodipodi:role="line"
+                 id="tspan132"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+                 x="540.91962"
+                 y="-43.7015" /></text>
+            <text
+               xml:space="preserve"
+               style="font-weight:bold;font-size:7.09784px;line-height:1.4;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.90121;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="647.60999"
+               y="-88.254944"
+               id="text133"><tspan
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1.90121"
+                 x="647.60999"
+                 y="-88.254944"
+                 id="tspan133">Sign In to continue</tspan></text>
+          </g>
+        </g>
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect135"
+         width="508"
+         height="285.75"
+         x="1243.8453"
+         y="-231.82962" />
+      <g
+         id="g137"
+         transform="matrix(1.0249874,0,0,1.0249874,-37.427259,238.91374)">
+        <rect
+           style="opacity:0.298701;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter121-5)"
+           id="rect136"
+           width="213.87851"
+           height="71.345558"
+           x="1390.9062"
+           y="-355.54828"
+           ry="15.098462" />
+        <rect
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect137"
+           width="213.87851"
+           height="71.345558"
+           x="1390.9062"
+           y="-355.54828"
+           ry="15.098462" />
+      </g>
+      <g
+         id="g138"
+         transform="matrix(1.3030671,0,0,1.3030671,1354.0705,-5.7604886)">
+        <rect
+           style="opacity:1;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+           id="rect138"
+           width="29.123104"
+           height="9.7077017"
+           x="95.774269"
+           y="-56.175316"
+           ry="2.8603022" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+           x="106.93068"
+           y="-49.52243"
+           id="text138"><tspan
+             sodipodi:role="line"
+             id="tspan138"
+             style="fill:#ffffff;stroke-width:0.79375"
+             x="106.93068"
+             y="-49.52243">OK</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.14434px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.71539;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         x="1442.5449"
+         y="-92.737129"
+         id="text139"><tspan
+           sodipodi:role="line"
+           id="tspan139"
+           style="font-size:6.14434px;fill:#000000;stroke:none;stroke-width:1.71539"
+           x="1442.5449"
+           y="-92.737129">Contact your admin for credential details</tspan></text>
+    </g>
+    <g
+       id="g4"
+       transform="translate(1111.0258,905.89938)">
+      <g
+         id="g116"
+         transform="translate(1059.0733,0.66146034)"
+         style="stroke:none;filter:url(#filter117)"
+         clip-path="url(#clipPath117)">
+        <g
+           id="g105"
+           style="stroke:none">
+          <a
+             id="a103"
+             transform="translate(529.53666,-0.66146034)"
+             style="stroke:none">
+            <rect
+               style="fill:#ffffff;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               id="rect103"
+               width="508"
+               height="285.75"
+               x="-344.76447"
+               y="-231.82962">
+              <title
+                 id="title103">Login Screen</title>
+            </rect>
+          </a>
+          <g
+             id="g104"
+             transform="translate(529.53667,644.59041)"
+             style="stroke:none">
+            <path
+               style="fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               d="m -344.76446,-591.33149 c 0,0 77.24113,-80.40296 135.72289,-108.89804 77.94123,-37.97667 179.709674,-28.36809 254.086651,-61.01984 59.238899,-26.00609 118.190449,-115.83212 118.190449,-115.83212 v 285.75 z"
+               id="path103"
+               sodipodi:nodetypes="cssccc" />
+            <path
+               style="fill:#379cff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               d="m -344.76446,-591.33149 c 0,0 133.44854,-57.24584 203.30938,-76.10941 71.535746,-19.31583 159.657591,6.77229 219.11669,-37.44399 51.43326,-38.24794 85.57392,-172.1966 85.57392,-172.1966 v 285.75 z"
+               id="path104"
+               sodipodi:nodetypes="cssccc" />
+          </g>
+        </g>
+        <g
+           id="g115"
+           style="stroke:none">
+          <rect
+             style="opacity:0.264516;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;filter:url(#filter62-6)"
+             id="rect105"
+             width="142.19077"
+             height="196.12518"
+             x="522.18195"
+             y="-178.64505"
+             ry="18.631893" />
+          <g
+             id="g114"
+             style="stroke:none">
+            <rect
+               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               id="rect106"
+               width="142.19077"
+               height="196.12518"
+               x="522.18195"
+               y="-178.64505"
+               ry="18.631893" />
+            <text
+               xml:space="preserve"
+               style="font-weight:bold;font-size:7.09784px;line-height:1.4;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.90121;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="656.65967"
+               y="-139.73058"
+               id="text106"><tspan
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1.90121"
+                 x="656.65967"
+                 y="-139.73058"
+                 id="tspan106">Welcome</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-weight:bold;font-size:16.2798px;line-height:1.4;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:end;text-anchor:end;fill:url(#linearGradient116);fill-opacity:1;stroke:none;stroke-width:4.3607;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="656.56445"
+               y="-122.26092"
+               id="text107"><tspan
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:url(#linearGradient116);fill-opacity:1;stroke:none;stroke-width:4.3607"
+                 x="656.56445"
+                 y="-122.26092"
+                 id="tspan107">Metadata Tracker</tspan></text>
+            <g
+               id="g108"
+               transform="translate(529.53666,1.6014434)"
+               style="stroke:none">
+              <rect
+                 style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+                 id="rect107"
+                 width="121.49438"
+                 height="12.629437"
+                 x="2.9934993"
+                 y="-76.955582"
+                 ry="4.065639" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+                 x="104.92379"
+                 y="-80.088539"
+                 id="text108"><tspan
+                   sodipodi:role="line"
+                   id="tspan108"
+                   style="font-size:5.64444px;text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.79375"
+                   x="104.92379"
+                   y="-80.088539">Email</tspan></text>
+            </g>
+            <rect
+               style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               id="rect108"
+               width="121.49438"
+               height="12.629437"
+               x="532.53015"
+               y="-51.084885"
+               ry="4.065639" />
+            <g
+               id="g109"
+               transform="translate(613.21284,-0.66146034)"
+               style="stroke:none">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+                 x="11.267868"
+                 y="-53.556381"
+                 id="text109"><tspan
+                   sodipodi:role="line"
+                   id="tspan109"
+                   style="font-size:5.64444px;text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.79375"
+                   x="11.267868"
+                   y="-53.556381">Password</tspan></text>
+            </g>
+            <g
+               id="g110"
+               transform="translate(529.53666,25.870698)"
+               onmouseover=""
+               style="stroke:none">
+              <rect
+                 style="opacity:1;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+                 id="rect109"
+                 width="29.123104"
+                 height="9.7077017"
+                 x="95.774269"
+                 y="-56.175316"
+                 ry="2.8603022" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+                 x="102.53077"
+                 y="-49.52243"
+                 id="text110"><tspan
+                   sodipodi:role="line"
+                   id="tspan110"
+                   style="fill:#ffffff;stroke:none;stroke-width:0.79375"
+                   x="102.53077"
+                   y="-49.52243">Submit</tspan></text>
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="599.69427"
+               y="-14.541488"
+               id="text111"><tspan
+                 sodipodi:role="line"
+                 id="tspan111"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Italic';fill:#333333;stroke:none;stroke-width:0.79375"
+                 x="599.69427"
+                 y="-14.541488">Trouble Logging in? Click here</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="540.91962"
+               y="-67.968689"
+               id="text112"><tspan
+                 sodipodi:role="line"
+                 id="tspan112"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#1a1a1a;stroke:none;stroke-width:0.79375"
+                 x="540.91962"
+                 y="-67.968689">manulogan101@gmail.com</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="540.91962"
+               y="-43.7015"
+               id="text113"><tspan
+                 sodipodi:role="line"
+                 id="tspan113"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+                 x="540.91962"
+                 y="-43.7015" /></text>
+            <text
+               xml:space="preserve"
+               style="font-weight:bold;font-size:7.09784px;line-height:1.4;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.90121;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+               x="647.60999"
+               y="-88.254944"
+               id="text114"><tspan
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1.90121"
+                 x="647.60999"
+                 y="-88.254944"
+                 id="tspan114">Sign In to continue</tspan></text>
+          </g>
+        </g>
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect119"
+         width="508"
+         height="285.75"
+         x="1243.8453"
+         y="-231.82962" />
+      <g
+         id="g121"
+         transform="matrix(1.0249874,0,0,1.0249874,-37.427259,238.91374)">
+        <rect
+           style="opacity:0.298701;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter121)"
+           id="rect121"
+           width="213.87851"
+           height="71.345558"
+           x="1390.9062"
+           y="-355.54828"
+           ry="15.098462" />
+        <rect
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect120"
+           width="213.87851"
+           height="71.345558"
+           x="1390.9062"
+           y="-355.54828"
+           ry="15.098462" />
+      </g>
+      <g
+         id="g68-2"
+         transform="matrix(1.3030671,0,0,1.3030671,1354.0705,-5.7604886)">
+        <rect
+           style="opacity:1;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+           id="rect67-8"
+           width="29.123104"
+           height="9.7077017"
+           x="95.774269"
+           y="-56.175316"
+           ry="2.8603022" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+           x="106.93068"
+           y="-49.52243"
+           id="text68-2"><tspan
+             sodipodi:role="line"
+             id="tspan68-3"
+             style="fill:#ffffff;stroke-width:0.79375"
+             x="106.93068"
+             y="-49.52243">OK</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.14434px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.71539;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         x="1449.3928"
+         y="-92.737129"
+         id="text121"><tspan
+           sodipodi:role="line"
+           id="tspan121"
+           style="font-size:6.14434px;fill:#000000;stroke:none;stroke-width:1.71539"
+           x="1449.3928"
+           y="-92.737129">Entered Password or email is wrong </tspan></text>
+    </g>
     <g
        id="g3-9"
        transform="translate(1111.0256,905.89938)">
@@ -850,13 +1506,6 @@
        y="1910.8898" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect50"
-       width="508"
-       height="285.75"
-       x="2354.8711"
-       y="674.06976" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect51"
        width="508"
        height="285.75"
@@ -883,13 +1532,6 @@
        height="285.75"
        x="2354.8711"
        y="1910.8898" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect55"
-       width="508"
-       height="285.75"
-       x="2884.4077"
-       y="674.06976" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect56"

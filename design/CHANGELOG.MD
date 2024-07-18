@@ -1,3 +1,7 @@
+# 4
+
+1. network error, trouble logging, password error views added
+
 # 3
 
 1. on field entry submit enabling view

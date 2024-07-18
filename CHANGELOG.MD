@@ -1,3 +1,7 @@
+# 0.r18.0.n22.4.i2
+
+1. network error, trouble logging, password error views added
+
 # 0.r18.0.n22.3.i2
 
 1. on field entry submit enabling view
