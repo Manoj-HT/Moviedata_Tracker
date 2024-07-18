@@ -1,3 +1,10 @@
+# 8
+
+1. user create and edit page added
+2. user create edit page field error view
+3. user create edit page submission action view
+4. select element view
+
 # 7
 
 1. admin user list delete action view 
