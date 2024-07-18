@@ -1,3 +1,8 @@
+# 0.r18.0.n22.3.i2
+
+1. on field entry submit enabling view
+2. field error view
+
 # 0.r18.0.n22.2.i2
 
 1. added login screen
