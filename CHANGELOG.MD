@@ -1,3 +1,7 @@
+# 1.r18.0.n22.9.i2
+
+1. admin meta list view added
+
 # 1.r18.0.n22.8.i2
 
 1. user create and edit page added
