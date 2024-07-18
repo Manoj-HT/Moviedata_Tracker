@@ -1,3 +1,11 @@
+# 10
+
+1. login page eye icon added
+2. inconsistencies in box shadow for modal box fixed
+3. metalist heading changed
+4. create button removed
+5. added mark wrong view
+
 # 9
 
 1. admin meta list view added
