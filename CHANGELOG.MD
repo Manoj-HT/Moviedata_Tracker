@@ -1,3 +1,12 @@
+# 1.r18.0.n22.7.i2
+
+1. admin user list delete action view 
+2. hover view for delete action
+
+# 1.r18.0.n22.6.i2
+
+1. description added in package.json
+
 # 0.r18.0.n22.6.i2
 
 1. admin user list added

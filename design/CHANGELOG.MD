@@ -1,3 +1,8 @@
+# 7
+
+1. admin user list delete action view 
+2. hover view for delete action
+
 # 6
 
 1. admin user list added
