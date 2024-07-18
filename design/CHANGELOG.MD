@@ -1,3 +1,8 @@
+# 6
+
+1. admin user list added
+2. asset files added
+
 # 5
 
 1. admin dashboard view added

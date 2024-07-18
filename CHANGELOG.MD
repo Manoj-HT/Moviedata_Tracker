@@ -1,3 +1,8 @@
+# 0.r18.0.n22.6.i2
+
+1. admin user list added
+2. asset files added
+
 # 0.r18.0.n22.5.i2
 
 1. admin dashboard view added
