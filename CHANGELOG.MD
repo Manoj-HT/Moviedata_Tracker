@@ -1,5 +1,9 @@
 # 1.r18.0.n22.11.i2
 
+1. added admin manage view for reassignment of contributors and admin
+
+# 1.r18.0.n22.11.i2
+
 1. added assign to reviewer for contributor while creating user
 2. added hover actions for wrong marking
 3. added more sections

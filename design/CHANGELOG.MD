@@ -1,3 +1,7 @@
+# 12
+
+1. added admin manage view for reassignment of contributors and admin
+
 # 11
 
 1. added assign to reviewer for contributor while creating user

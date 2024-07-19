@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.061181774"
-     inkscape:cx="6251.8618"
-     inkscape:cy="5352.9013"
+     inkscape:zoom="0.30347422"
+     inkscape:cx="5208.0206"
+     inkscape:cy="9383.0046"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -909,11 +909,1615 @@
        y1="-364.23337"
        x2="-905.3595"
        y2="-413.59042" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient147"
+       id="linearGradient1078"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-8.4342637)"
+       x1="-48.069992"
+       y1="98.071617"
+       x2="-48.069992"
+       y2="129.16948" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62"
+       id="linearGradient1079"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33355352,0,0,0.33355352,1097.5975,1130.057)"
+       x1="-980.29578"
+       y1="-364.23337"
+       x2="-905.3595"
+       y2="-413.59042" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1080"
+       x="-0.047485669"
+       y="-0.048525592"
+       width="1.0949713"
+       height="1.0970512">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.2735301"
+         id="feGaussianBlur1080" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath281">
+      <rect
+         style="opacity:1;fill:#f9f9f9;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+         id="rect285"
+         width="182.14276"
+         height="102.2645"
+         x="810.93805"
+         y="2358.5261"
+         rx="6.697485"
+         ry="6.697485" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient147"
+       id="linearGradient1166"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-8.4342637)"
+       x1="-48.069992"
+       y1="98.071617"
+       x2="-48.069992"
+       y2="129.16948" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62"
+       id="linearGradient1167"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33355352,0,0,0.33355352,1097.5975,1130.057)"
+       x1="-980.29578"
+       y1="-364.23337"
+       x2="-905.3595"
+       y2="-413.59042" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <g
+       id="g1166"
+       transform="translate(529.53687,2.9099121e-5)">
+      <rect
+         style="fill:#e3f0fc;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect992"
+         width="508"
+         height="285.75"
+         x="766.26135"
+         y="2220.0945" />
+      <g
+         id="g1032"
+         transform="translate(1.7871094e-5,1236.8196)">
+        <g
+           id="g1031"
+           transform="translate(1111.0258,905.89951)">
+          <rect
+             style="opacity:1;fill:url(#linearGradient1166);fill-opacity:1;stroke:none;stroke-width:1.31626;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect993"
+             width="508.87747"
+             height="13.808727"
+             x="-345.20322"
+             y="106.92649"
+             ry="0" />
+          <rect
+             style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:159.07;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect994"
+             width="508.00003"
+             height="29.551147"
+             x="-344.76447"
+             y="77.375343" />
+          <g
+             id="g1030"
+             transform="matrix(0.06252459,0,0,0.06252459,128.71926,134.71539)">
+            <g
+               id="g994">
+              <circle
+                 style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#0074e5;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+                 id="circle994"
+                 cx="233.50075"
+                 cy="-667.9895"
+                 r="133.74568" />
+            </g>
+            <g
+               id="g1029"
+               transform="matrix(0.73480265,0,0,0.73480265,295.19955,-228.94377)"
+               style="stroke-width:1.00027;stroke-dasharray:none">
+              <path
+                 style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.00027;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+                 d="m -33.621153,-506.16461 c -55.010025,0 -33.334815,0 -100.124527,0 -53.40557,0 -4.63642,-103.07026 48.769149,-103.07026 53.405566,0 104.760944,103.07026 51.355378,103.07026 z"
+                 id="path1028"
+                 sodipodi:nodetypes="ssss" />
+              <circle
+                 style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.00027;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+                 id="circle1028"
+                 cx="-83.966499"
+                 cy="-659.86127"
+                 r="40.640953" />
+            </g>
+          </g>
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.70609;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           d="m 812.60511,996.93723 v 6.51617 h 8.34895 v -10.80599"
+           id="path1031"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:2.55914;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           d="m 809.8917,999.1093 6.88788,-5.91888 6.88789,5.91888"
+           id="path1032"
+           sodipodi:nodetypes="ccc" />
+        <circle
+           style="fill:url(#linearGradient1167);fill-opacity:1;stroke:none;stroke-width:0.667107;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="circle1032"
+           cx="785.27704"
+           cy="998.05042"
+           r="10.334575" />
+      </g>
+      <g
+         id="g1113">
+        <g
+           id="g1033"
+           transform="translate(-0.75974637)">
+          <rect
+             style="opacity:0.254839;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;filter:url(#filter1080)"
+             id="rect1032"
+             width="215.99089"
+             height="211.36212"
+             x="794.77374"
+             y="2269.3049"
+             ry="20.482626" />
+          <rect
+             style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none"
+             id="rect1033"
+             width="215.99089"
+             height="211.36212"
+             x="794.77374"
+             y="2269.3049"
+             ry="20.482626" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:8.52433px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:30.2044;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="902.26123"
+           y="2285.6577"
+           id="text1059"><tspan
+             sodipodi:role="line"
+             id="tspan1059"
+             style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:30.2044"
+             x="902.26123"
+             y="2285.6577">Assign Reviewer to Admin</tspan></text>
+        <g
+           id="g1063"
+           transform="translate(1076.9654,1499.0217)">
+          <g
+             id="g1062"
+             transform="translate(-282.794,899.16091)">
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               id="rect1059"
+               width="126.22409"
+               height="10.374886"
+               x="32.822956"
+               y="-99.847954"
+               ry="4.065639" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             x="-245.15523"
+             y="805.56909"
+             id="text1062"><tspan
+               sodipodi:role="line"
+               id="tspan1062"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke:none;stroke-width:0.79375"
+               x="-245.15523"
+               y="805.56909">Manoj HT</tspan></text>
+        </g>
+        <g
+           id="g1065"
+           transform="translate(1076.9654,1514.5881)">
+          <g
+             id="g1064"
+             transform="translate(-282.794,899.16091)">
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               id="rect1063"
+               width="126.63359"
+               height="10.374886"
+               x="32.822956"
+               y="-99.847954"
+               ry="4.065639" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             x="-245.15523"
+             y="805.56909"
+             id="text1064"><tspan
+               sodipodi:role="line"
+               id="tspan1064"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+               x="-245.15523"
+               y="805.56909">Search admin by name, email, phone, id...</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="819.93842"
+           y="2304.5908"
+           id="text1065"><tspan
+             sodipodi:role="line"
+             id="tspan1065"
+             style="text-align:end;text-anchor:end;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+             x="819.93842"
+             y="2304.5908">Reviewer</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="819.93842"
+           y="2320.1572"
+           id="text1066"><tspan
+             sodipodi:role="line"
+             id="tspan1066"
+             style="text-align:end;text-anchor:end;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+             x="819.93842"
+             y="2320.1572">Admin</tspan></text>
+        <g
+           id="g1067"
+           transform="translate(866.46404,2363.3024)"
+           onmouseover=""
+           style="fill:#0074e5;fill-opacity:1">
+          <rect
+             style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             id="rect1066"
+             width="29.123104"
+             height="9.7077017"
+             x="95.774269"
+             y="-31.722101"
+             ry="2.8603022" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             x="106.93068"
+             y="-25.069216"
+             id="text1067"><tspan
+               sodipodi:role="line"
+               id="tspan1067"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.79375"
+               x="106.93068"
+               y="-25.069216">OK</tspan></text>
+        </g>
+        <g
+           id="g1068"
+           transform="translate(278.555,-18.155704)">
+          <rect
+             style="fill:#0074e5;fill-opacity:1;stroke:#0074e5;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect1067"
+             width="29.123104"
+             height="9.7077017"
+             x="683.28644"
+             y="2316.824"
+             ry="2.8603022" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             x="697.93475"
+             y="2323.4768"
+             id="text1068"><tspan
+               sodipodi:role="line"
+               id="tspan1068"
+               style="text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:0.79375"
+               x="697.93475"
+               y="2323.4768">Search</tspan></text>
+        </g>
+        <g
+           id="g1069"
+           transform="translate(278.555,-2.5893042)">
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect1068"
+             width="29.123104"
+             height="9.7077017"
+             x="683.28644"
+             y="2316.824"
+             ry="2.8603022" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             x="697.93475"
+             y="2323.4768"
+             id="text1069"><tspan
+               sodipodi:role="line"
+               id="tspan1069"
+               style="text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke-width:0.79375"
+               x="697.93475"
+               y="2323.4768">Search</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="803.64758"
+           y="2337.9763"
+           id="text1070"><tspan
+             sodipodi:role="line"
+             id="tspan1070"
+             style="text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+             x="803.64758"
+             y="2337.9763">Assigning</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="888.72571"
+           y="2337.9763"
+           id="text1071"><tspan
+             sodipodi:role="line"
+             id="tspan1071"
+             style="text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+             x="888.72571"
+             y="2337.9763">to</tspan></text>
+        <path
+           style="opacity:1;fill:none;stroke:#b3b3b3;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+           d="m 826.83486,2341.038 h 54.27255"
+           id="path1071" />
+        <path
+           style="opacity:1;fill:none;stroke:#b3b3b3;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+           d="m 898.6959,2341.038 h 54.27255"
+           id="path1072" />
+        <g
+           id="g1076"
+           transform="translate(0,13.014893)">
+          <rect
+             style="opacity:1;fill:#e3f0fc;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1072"
+             width="181.89279"
+             height="13.014893"
+             x="811.18805"
+             y="2371.6145" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1072"><tspan
+               sodipodi:role="line"
+               id="tspan1072"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1073"><tspan
+               sodipodi:role="line"
+               id="tspan1073"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1074"><tspan
+               sodipodi:role="line"
+               id="tspan1074"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1075"><tspan
+               sodipodi:role="line"
+               id="tspan1075"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1076"><tspan
+               sodipodi:role="line"
+               id="tspan1076"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <g
+           id="g1082"
+           transform="translate(0,39.044678)">
+          <rect
+             style="opacity:1;fill:#e3f0fc;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1076"
+             width="181.89279"
+             height="13.014893"
+             x="811.18805"
+             y="2371.6145" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1077"><tspan
+               sodipodi:role="line"
+               id="tspan1077"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1079"><tspan
+               sodipodi:role="line"
+               id="tspan1079"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1080"><tspan
+               sodipodi:role="line"
+               id="tspan1080"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1081"><tspan
+               sodipodi:role="line"
+               id="tspan1081"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1082"><tspan
+               sodipodi:role="line"
+               id="tspan1082"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <g
+           id="g1087"
+           transform="translate(0,65.074464)">
+          <rect
+             style="opacity:1;fill:#e3f0fc;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1082"
+             width="181.89279"
+             height="13.014893"
+             x="811.18805"
+             y="2371.6145" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1083"><tspan
+               sodipodi:role="line"
+               id="tspan1083"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1084"><tspan
+               sodipodi:role="line"
+               id="tspan1084"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1085"><tspan
+               sodipodi:role="line"
+               id="tspan1085"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1086"><tspan
+               sodipodi:role="line"
+               id="tspan1086"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1087"><tspan
+               sodipodi:role="line"
+               id="tspan1087"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <rect
+           style="opacity:1;fill:none;stroke:#0074e5;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+           id="rect1087"
+           width="182.14276"
+           height="102.2645"
+           x="810.93805"
+           y="2358.5261"
+           rx="6.697485"
+           ry="6.697485" />
+        <rect
+           style="opacity:1;fill:#0074e5;fill-opacity:1;stroke:#0074e5;stroke-width:0.900735;stroke-linecap:round;stroke-opacity:1"
+           id="rect1088"
+           width="182.14284"
+           height="12.638035"
+           x="810.93805"
+           y="2358.5261"
+           rx="0"
+           ry="0"
+           clip-path="url(#clipPath281)" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="819.7431"
+           y="2366.6123"
+           id="text1088"><tspan
+             sodipodi:role="line"
+             id="tspan1088"
+             style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+             x="819.7431"
+             y="2366.6123">Sl No.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="846.5423"
+           y="2366.6123"
+           id="text1089"><tspan
+             sodipodi:role="line"
+             id="tspan1089"
+             style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+             x="846.5423"
+             y="2366.6123">ONS ID</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="883.85815"
+           y="2366.6123"
+           id="text1090"><tspan
+             sodipodi:role="line"
+             id="tspan1090"
+             style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+             x="883.85815"
+             y="2366.6123">Name</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="929.24768"
+           y="2366.6123"
+           id="text1091"><tspan
+             sodipodi:role="line"
+             id="tspan1091"
+             style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+             x="929.24768"
+             y="2366.6123">Email</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="973.9837"
+           y="2366.6123"
+           id="text1092"><tspan
+             sodipodi:role="line"
+             id="tspan1092"
+             style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+             x="973.9837"
+             y="2366.6123">Phone Number</tspan></text>
+        <g
+           id="g1097">
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1093"><tspan
+               sodipodi:role="line"
+               id="tspan1093"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1094"><tspan
+               sodipodi:role="line"
+               id="tspan1094"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1095"><tspan
+               sodipodi:role="line"
+               id="tspan1095"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1096"><tspan
+               sodipodi:role="line"
+               id="tspan1096"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1097"><tspan
+               sodipodi:role="line"
+               id="tspan1097"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <g
+           id="g1102"
+           transform="translate(0,26.029785)">
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1098"><tspan
+               sodipodi:role="line"
+               id="tspan1098"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1099"><tspan
+               sodipodi:role="line"
+               id="tspan1099"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1100"><tspan
+               sodipodi:role="line"
+               id="tspan1100"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1101"><tspan
+               sodipodi:role="line"
+               id="tspan1101"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1102"><tspan
+               sodipodi:role="line"
+               id="tspan1102"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <g
+           id="g1107"
+           transform="translate(0,52.059571)">
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1103"><tspan
+               sodipodi:role="line"
+               id="tspan1103"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1104"><tspan
+               sodipodi:role="line"
+               id="tspan1104"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1105"><tspan
+               sodipodi:role="line"
+               id="tspan1105"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1106"><tspan
+               sodipodi:role="line"
+               id="tspan1106"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1107"><tspan
+               sodipodi:role="line"
+               id="tspan1107"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <g
+           id="g1112"
+           transform="translate(0,78.089357)">
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1108"><tspan
+               sodipodi:role="line"
+               id="tspan1108"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1109"><tspan
+               sodipodi:role="line"
+               id="tspan1109"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1110"><tspan
+               sodipodi:role="line"
+               id="tspan1110"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1111"><tspan
+               sodipodi:role="line"
+               id="tspan1111"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1112"><tspan
+               sodipodi:role="line"
+               id="tspan1112"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="817.65808"
+           y="2354.8528"
+           id="text1113"><tspan
+             sodipodi:role="line"
+             id="tspan1113"
+             style="text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+             x="817.65808"
+             y="2354.8528">Search Reviewer ....</tspan></text>
+      </g>
+      <g
+         id="g1165"
+         transform="translate(236.50383)">
+        <g
+           id="g1114"
+           transform="translate(-0.75974637)">
+          <rect
+             style="opacity:0.254839;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;filter:url(#filter1080)"
+             id="rect1113"
+             width="215.99089"
+             height="211.36212"
+             x="794.77374"
+             y="2269.3049"
+             ry="20.482626" />
+          <rect
+             style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none"
+             id="rect1114"
+             width="215.99089"
+             height="211.36212"
+             x="794.77374"
+             y="2269.3049"
+             ry="20.482626" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:8.52433px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:30.2044;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="902.26123"
+           y="2285.6577"
+           id="text1114"><tspan
+             sodipodi:role="line"
+             id="tspan1114"
+             style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:30.2044"
+             x="902.26123"
+             y="2285.6577">Assign Contributor to Reviewer</tspan></text>
+        <g
+           id="g1116"
+           transform="translate(1076.9654,1499.0217)">
+          <g
+             id="g1115"
+             transform="translate(-282.794,899.16091)">
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               id="rect1115"
+               width="126.22409"
+               height="10.374886"
+               x="32.822956"
+               y="-99.847954"
+               ry="4.065639" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             x="-245.15523"
+             y="805.56909"
+             id="text1115"><tspan
+               sodipodi:role="line"
+               id="tspan1115"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+               x="-245.15523"
+               y="805.56909">Search contributor by name, email, phone, id...</tspan></text>
+        </g>
+        <g
+           id="g1118"
+           transform="translate(1076.9654,1514.5881)">
+          <g
+             id="g1117"
+             transform="translate(-282.794,899.16091)">
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               id="rect1116"
+               width="126.63359"
+               height="10.374886"
+               x="32.822956"
+               y="-99.847954"
+               ry="4.065639" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             x="-245.15523"
+             y="805.56909"
+             id="text1117"><tspan
+               sodipodi:role="line"
+               id="tspan1117"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#1a1a1a;stroke:none;stroke-width:0.79375"
+               x="-245.15523"
+               y="805.56909">Manoj HT</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="819.93842"
+           y="2304.5908"
+           id="text1118"><tspan
+             sodipodi:role="line"
+             id="tspan1118"
+             style="text-align:end;text-anchor:end;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+             x="819.93842"
+             y="2304.5908">Contributor</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="819.93842"
+           y="2320.1572"
+           id="text1119"><tspan
+             sodipodi:role="line"
+             id="tspan1119"
+             style="text-align:end;text-anchor:end;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+             x="819.93842"
+             y="2320.1572">Reviewer</tspan></text>
+        <g
+           id="g1120"
+           transform="translate(866.46404,2363.3024)"
+           onmouseover=""
+           style="fill:#0074e5;fill-opacity:1">
+          <rect
+             style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             id="rect1119"
+             width="29.123104"
+             height="9.7077017"
+             x="95.774269"
+             y="-31.722101"
+             ry="2.8603022" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             x="106.93068"
+             y="-25.069216"
+             id="text1120"><tspan
+               sodipodi:role="line"
+               id="tspan1120"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.79375"
+               x="106.93068"
+               y="-25.069216">OK</tspan></text>
+        </g>
+        <g
+           id="g1121"
+           transform="translate(278.555,-18.155704)">
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect1120"
+             width="29.123104"
+             height="9.7077017"
+             x="683.28644"
+             y="2316.824"
+             ry="2.8603022" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             x="697.93475"
+             y="2323.4768"
+             id="text1121"><tspan
+               sodipodi:role="line"
+               id="tspan1121"
+               style="text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke-width:0.79375"
+               x="697.93475"
+               y="2323.4768">Search</tspan></text>
+        </g>
+        <g
+           id="g1122"
+           transform="translate(278.555,-2.5893042)">
+          <rect
+             style="fill:#0074e5;fill-opacity:1;stroke:#0074e5;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect1121"
+             width="29.123104"
+             height="9.7077017"
+             x="683.28644"
+             y="2316.824"
+             ry="2.8603022" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+             x="697.93475"
+             y="2323.4768"
+             id="text1122"><tspan
+               sodipodi:role="line"
+               id="tspan1122"
+               style="text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:0.79375"
+               x="697.93475"
+               y="2323.4768">Search</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="803.64758"
+           y="2337.9763"
+           id="text1123"><tspan
+             sodipodi:role="line"
+             id="tspan1123"
+             style="text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+             x="803.64758"
+             y="2337.9763">Assigning</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="888.72571"
+           y="2337.9763"
+           id="text1124"><tspan
+             sodipodi:role="line"
+             id="tspan1124"
+             style="text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+             x="888.72571"
+             y="2337.9763">to</tspan></text>
+        <path
+           style="opacity:1;fill:none;stroke:#b3b3b3;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+           d="m 826.83486,2341.038 h 54.27255"
+           id="path1124" />
+        <path
+           style="opacity:1;fill:none;stroke:#b3b3b3;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+           d="m 898.6959,2341.038 h 54.27255"
+           id="path1125" />
+        <g
+           id="g1129"
+           transform="translate(0,13.014893)">
+          <rect
+             style="opacity:1;fill:#e3f0fc;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1125"
+             width="181.89279"
+             height="13.014893"
+             x="811.18805"
+             y="2371.6145" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1125"><tspan
+               sodipodi:role="line"
+               id="tspan1125"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1126"><tspan
+               sodipodi:role="line"
+               id="tspan1126"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1127"><tspan
+               sodipodi:role="line"
+               id="tspan1127"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1128"><tspan
+               sodipodi:role="line"
+               id="tspan1128"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1129"><tspan
+               sodipodi:role="line"
+               id="tspan1129"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <g
+           id="g1134"
+           transform="translate(0,39.044678)">
+          <rect
+             style="opacity:1;fill:#e3f0fc;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1129"
+             width="181.89279"
+             height="13.014893"
+             x="811.18805"
+             y="2371.6145" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1130"><tspan
+               sodipodi:role="line"
+               id="tspan1130"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1131"><tspan
+               sodipodi:role="line"
+               id="tspan1131"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1132"><tspan
+               sodipodi:role="line"
+               id="tspan1132"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1133"><tspan
+               sodipodi:role="line"
+               id="tspan1133"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1134"><tspan
+               sodipodi:role="line"
+               id="tspan1134"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <g
+           id="g1139"
+           transform="translate(0,65.074464)">
+          <rect
+             style="opacity:1;fill:#e3f0fc;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1134"
+             width="181.89279"
+             height="13.014893"
+             x="811.18805"
+             y="2371.6145" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1135"><tspan
+               sodipodi:role="line"
+               id="tspan1135"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1136"><tspan
+               sodipodi:role="line"
+               id="tspan1136"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1137"><tspan
+               sodipodi:role="line"
+               id="tspan1137"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1138"><tspan
+               sodipodi:role="line"
+               id="tspan1138"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1139"><tspan
+               sodipodi:role="line"
+               id="tspan1139"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <rect
+           style="opacity:1;fill:none;stroke:#0074e5;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+           id="rect1139"
+           width="182.14276"
+           height="102.2645"
+           x="810.93805"
+           y="2358.5261"
+           rx="6.697485"
+           ry="6.697485" />
+        <rect
+           style="opacity:1;fill:#0074e5;fill-opacity:1;stroke:#0074e5;stroke-width:0.900735;stroke-linecap:round;stroke-opacity:1"
+           id="rect1140"
+           width="182.14284"
+           height="12.638035"
+           x="810.93805"
+           y="2358.5261"
+           rx="0"
+           ry="0"
+           clip-path="url(#clipPath281)" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="819.7431"
+           y="2366.6123"
+           id="text1140"><tspan
+             sodipodi:role="line"
+             id="tspan1140"
+             style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+             x="819.7431"
+             y="2366.6123">Sl No.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="846.5423"
+           y="2366.6123"
+           id="text1141"><tspan
+             sodipodi:role="line"
+             id="tspan1141"
+             style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+             x="846.5423"
+             y="2366.6123">ONS ID</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="883.85815"
+           y="2366.6123"
+           id="text1142"><tspan
+             sodipodi:role="line"
+             id="tspan1142"
+             style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+             x="883.85815"
+             y="2366.6123">Name</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="929.24768"
+           y="2366.6123"
+           id="text1143"><tspan
+             sodipodi:role="line"
+             id="tspan1143"
+             style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+             x="929.24768"
+             y="2366.6123">Email</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="973.9837"
+           y="2366.6123"
+           id="text1144"><tspan
+             sodipodi:role="line"
+             id="tspan1144"
+             style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+             x="973.9837"
+             y="2366.6123">Phone Number</tspan></text>
+        <g
+           id="g1149">
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1145"><tspan
+               sodipodi:role="line"
+               id="tspan1145"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1146"><tspan
+               sodipodi:role="line"
+               id="tspan1146"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1147"><tspan
+               sodipodi:role="line"
+               id="tspan1147"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1148"><tspan
+               sodipodi:role="line"
+               id="tspan1148"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1149"><tspan
+               sodipodi:role="line"
+               id="tspan1149"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <g
+           id="g1154"
+           transform="translate(0,26.029785)">
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1150"><tspan
+               sodipodi:role="line"
+               id="tspan1150"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1151"><tspan
+               sodipodi:role="line"
+               id="tspan1151"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1152"><tspan
+               sodipodi:role="line"
+               id="tspan1152"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1153"><tspan
+               sodipodi:role="line"
+               id="tspan1153"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1154"><tspan
+               sodipodi:role="line"
+               id="tspan1154"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <g
+           id="g1159"
+           transform="translate(0,52.059571)">
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1155"><tspan
+               sodipodi:role="line"
+               id="tspan1155"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1156"><tspan
+               sodipodi:role="line"
+               id="tspan1156"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1157"><tspan
+               sodipodi:role="line"
+               id="tspan1157"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1158"><tspan
+               sodipodi:role="line"
+               id="tspan1158"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1159"><tspan
+               sodipodi:role="line"
+               id="tspan1159"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <g
+           id="g1164"
+           transform="translate(0,78.089357)">
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="819.7431"
+             y="2379.6641"
+             id="text1160"><tspan
+               sodipodi:role="line"
+               id="tspan1160"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="819.7431"
+               y="2379.6641">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="846.5423"
+             y="2379.6311"
+             id="text1161"><tspan
+               sodipodi:role="line"
+               id="tspan1161"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="846.5423"
+               y="2379.6311">ON010100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="883.36774"
+             y="2379.5649"
+             id="text1162"><tspan
+               sodipodi:role="line"
+               id="tspan1162"
+               style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+               x="883.36774"
+               y="2379.5649">Manoj HT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="929.24768"
+             y="2379.6641"
+             id="text1163"><tspan
+               sodipodi:role="line"
+               id="tspan1163"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="929.24768"
+               y="2379.6641">manojht@gmail.com</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             x="974.01263"
+             y="2379.6641"
+             id="text1164"><tspan
+               sodipodi:role="line"
+               id="tspan1164"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:15.0004"
+               x="974.01263"
+               y="2379.6641">+911234567890</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="817.65808"
+           y="2354.8528"
+           id="text1165"><tspan
+             sodipodi:role="line"
+             id="tspan1165"
+             style="text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+             x="817.65808"
+             y="2354.8528">Search Reviewer ....</tspan></text>
+      </g>
+    </g>
     <g
        id="g1061"
        transform="translate(1059.0736)">
@@ -5298,7 +6902,7 @@
          r="1.3814944" />
     </g>
     <g
-       id="g13">
+       id="g70">
       <rect
          style="fill:#e3f0fc;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
          id="rect4-1"
@@ -5471,142 +7075,139 @@
            x="850.91406"
            y="1738.7906">Name</tspan></text>
       <g
-         id="g70"
+         id="g66"
          transform="translate(1111.0258,932.83291)">
         <g
-           id="g66">
-          <g
-             id="g8"
-             transform="translate(-282.794,899.16091)">
-            <rect
-               style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-               id="rect8"
-               width="87.155823"
-               height="10.374885"
-               x="32.822956"
-               y="-99.847954"
-               ry="4.065639" />
-          </g>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
-             x="-245.15523"
-             y="805.56909"
-             id="text70-0"><tspan
-               sodipodi:role="line"
-               id="tspan70-5"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
-               x="-245.15523"
-               y="805.56909">Enter user name</tspan></text>
+           id="g8"
+           transform="translate(-282.794,899.16091)">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect8"
+             width="87.155823"
+             height="10.374885"
+             x="32.822956"
+             y="-99.847954"
+             ry="4.065639" />
         </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+           x="-245.15523"
+           y="805.56909"
+           id="text70-0"><tspan
+             sodipodi:role="line"
+             id="tspan70-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+             x="-245.15523"
+             y="805.56909">Enter user name</tspan></text>
+      </g>
+      <g
+         id="g27"
+         transform="translate(1111.0258,952.6992)">
         <g
-           id="g27"
-           transform="translate(0,19.866295)">
-          <g
-             id="g26"
-             transform="translate(-282.794,899.16091)">
-            <rect
-               style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-               id="rect26"
-               width="87.155823"
-               height="10.374885"
-               x="32.822956"
-               y="-99.847954"
-               ry="4.065639" />
-          </g>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
-             x="-245.15523"
-             y="805.56909"
-             id="text26"><tspan
-               sodipodi:role="line"
-               id="tspan26"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
-               x="-245.15523"
-               y="805.56909">Enter user email</tspan></text>
+           id="g26"
+           transform="translate(-282.794,899.16091)">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect26"
+             width="87.155823"
+             height="10.374885"
+             x="32.822956"
+             y="-99.847954"
+             ry="4.065639" />
         </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+           x="-245.15523"
+           y="805.56909"
+           id="text26"><tspan
+             sodipodi:role="line"
+             id="tspan26"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+             x="-245.15523"
+             y="805.56909">Enter user email</tspan></text>
+      </g>
+      <g
+         id="g29"
+         transform="translate(1111.0258,972.5655)">
         <g
-           id="g29"
-           transform="translate(0,39.73259)">
-          <g
-             id="g28"
-             transform="translate(-282.794,899.16091)">
-            <rect
-               style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-               id="rect27"
-               width="87.155823"
-               height="10.374885"
-               x="32.822956"
-               y="-99.847954"
-               ry="4.065639" />
-          </g>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
-             x="-245.15523"
-             y="805.56909"
-             id="text28"><tspan
-               sodipodi:role="line"
-               id="tspan28"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
-               x="-245.15523"
-               y="805.56909">Enter user phone number</tspan></text>
+           id="g28"
+           transform="translate(-282.794,899.16091)">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect27"
+             width="87.155823"
+             height="10.374885"
+             x="32.822956"
+             y="-99.847954"
+             ry="4.065639" />
         </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+           x="-245.15523"
+           y="805.56909"
+           id="text28"><tspan
+             sodipodi:role="line"
+             id="tspan28"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+             x="-245.15523"
+             y="805.56909">Enter user phone number</tspan></text>
+      </g>
+      <g
+         id="g33"
+         transform="translate(1111.0258,992.43179)">
         <g
-           id="g33"
-           transform="translate(0,59.598885)">
-          <g
-             id="g31"
-             transform="translate(-282.794,899.16091)">
-            <rect
-               style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-               id="rect31"
-               width="87.155823"
-               height="10.374885"
-               x="32.822956"
-               y="-99.847954"
-               ry="4.065639" />
-          </g>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
-             x="-245.15523"
-             y="805.56909"
-             id="text33"><tspan
-               sodipodi:role="line"
-               id="tspan32"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
-               x="-245.15523"
-               y="805.56909">Enter user password</tspan></text>
+           id="g31"
+           transform="translate(-282.794,899.16091)">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect31"
+             width="87.155823"
+             height="10.374885"
+             x="32.822956"
+             y="-99.847954"
+             ry="4.065639" />
         </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+           x="-245.15523"
+           y="805.56909"
+           id="text33"><tspan
+             sodipodi:role="line"
+             id="tspan32"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+             x="-245.15523"
+             y="805.56909">Enter user password</tspan></text>
+      </g>
+      <g
+         id="g63"
+         transform="translate(1111.0258,1012.2981)">
         <g
-           id="g63"
-           transform="translate(0,79.46518)">
-          <g
-             id="g61"
-             transform="translate(-282.794,899.16091)">
-            <rect
-               style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-               id="rect61"
-               width="87.155823"
-               height="10.374885"
-               x="32.822956"
-               y="-99.847954"
-               ry="4.065639" />
-          </g>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
-             x="-245.15523"
-             y="805.56909"
-             id="text63"><tspan
-               sodipodi:role="line"
-               id="tspan63"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
-               x="-245.15523"
-               y="805.56909">Select the type of role for user</tspan></text>
+           id="g61"
+           transform="translate(-282.794,899.16091)">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect61"
+             width="87.155823"
+             height="10.374885"
+             x="32.822956"
+             y="-99.847954"
+             ry="4.065639" />
         </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+           x="-245.15523"
+           y="805.56909"
+           id="text63"><tspan
+             sodipodi:role="line"
+             id="tspan63"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+             x="-245.15523"
+             y="805.56909">Select the type of role for user</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -16814,17 +18415,6 @@
          cy="998.05042"
          r="10.334575" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.6586px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:#0074e5;stroke-width:1.6395;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       x="-890.34955"
-       y="838.43195"
-       id="text18"><tspan
-         sodipodi:role="line"
-         id="tspan18"
-         style="fill:#1a1a1a;stroke:none;stroke-width:1.6395"
-         x="-890.34955"
-         y="838.43195">Metadata</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect35"
@@ -18069,13 +19659,6 @@
     </g>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect676"
-       width="508"
-       height="285.75"
-       x="766.26135"
-       y="2220.0945" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect677"
        width="508"
        height="285.75"
@@ -18102,13 +19685,6 @@
        height="285.75"
        x="766.26135"
        y="3456.9141" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect684"
-       width="508"
-       height="285.75"
-       x="1295.7982"
-       y="2220.0945" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect688"
@@ -18513,5 +20089,656 @@
            sodipodi:nodetypes="cc" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.6673px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#999999;fill-opacity:1;stroke:#0074e5;stroke-width:8.10947;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="714.48511"
+       y="2383.9753"
+       id="text1078"><tspan
+         sodipodi:role="line"
+         id="tspan1078"
+         style="text-align:end;text-anchor:end;fill:#1a1a1a;stroke:none;stroke-width:8.10947"
+         x="714.48511"
+         y="2383.9753">Admin Manage</tspan></text>
+    <rect
+       style="fill:#e3f0fc;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect676"
+       width="508"
+       height="285.75"
+       x="766.26135"
+       y="2220.0945" />
+    <g
+       id="g4-5-0"
+       transform="translate(1.7871094e-5,1236.8196)">
+      <g
+         id="g154-4-0-2-1"
+         transform="translate(1111.0258,905.89951)">
+        <rect
+           style="opacity:1;fill:url(#linearGradient1078);fill-opacity:1;stroke:none;stroke-width:1.31626;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect141-0-9-7-0"
+           width="508.87747"
+           height="13.808727"
+           x="-345.20322"
+           y="106.92649"
+           ry="0" />
+        <rect
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:159.07;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect153-7-7-5-7"
+           width="508.00003"
+           height="29.551147"
+           x="-344.76447"
+           y="77.375343" />
+        <g
+           id="g153-3-0-3-5"
+           transform="matrix(0.06252459,0,0,0.06252459,128.71926,134.71539)">
+          <g
+             id="g152-4-5-7-0">
+            <circle
+               style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#0074e5;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               id="path150-2-8-5-8"
+               cx="233.50075"
+               cy="-667.9895"
+               r="133.74568" />
+          </g>
+          <g
+             id="g151-8-1-9-8"
+             transform="matrix(0.73480265,0,0,0.73480265,295.19955,-228.94377)"
+             style="stroke-width:1.00027;stroke-dasharray:none">
+            <path
+               style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.00027;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               d="m -33.621153,-506.16461 c -55.010025,0 -33.334815,0 -100.124527,0 -53.40557,0 -4.63642,-103.07026 48.769149,-103.07026 53.405566,0 104.760944,103.07026 51.355378,103.07026 z"
+               id="path151-2-0-3-1"
+               sodipodi:nodetypes="ssss" />
+            <circle
+               style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.00027;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+               id="circle151-8-7-6-4"
+               cx="-83.966499"
+               cy="-659.86127"
+               r="40.640953" />
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.70609;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 812.60511,996.93723 v 6.51617 h 8.34895 v -10.80599"
+         id="path63-3-3-7-6"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:2.55914;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 809.8917,999.1093 6.88788,-5.91888 6.88789,5.91888"
+         id="path68-6-7-6-4"
+         sodipodi:nodetypes="ccc" />
+      <circle
+         style="fill:url(#linearGradient1079);fill-opacity:1;stroke:none;stroke-width:0.667107;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="path196-0-4-7"
+         cx="785.27704"
+         cy="998.05042"
+         r="10.334575" />
+    </g>
+    <g
+       id="g1080"
+       transform="translate(-0.75974637)">
+      <rect
+         style="opacity:0.254839;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;filter:url(#filter1080)"
+         id="rect1080"
+         width="215.99089"
+         height="211.36212"
+         x="794.77374"
+         y="2269.3049"
+         ry="20.482626" />
+      <rect
+         style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none"
+         id="rect1079"
+         width="215.99089"
+         height="211.36212"
+         x="794.77374"
+         y="2269.3049"
+         ry="20.482626" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.52433px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:30.2044;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="902.26123"
+       y="2285.6577"
+       id="text134-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan134-1-2"
+         style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:30.2044"
+         x="902.26123"
+         y="2285.6577">Assign Reviewer to Admin</tspan></text>
+    <g
+       id="g66-0"
+       transform="translate(1076.9654,1499.0217)">
+      <g
+         id="g8-7"
+         transform="translate(-282.794,899.16091)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect8-08"
+           width="126.22409"
+           height="10.374886"
+           x="32.822956"
+           y="-99.847954"
+           ry="4.065639" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="-245.15523"
+         y="805.56909"
+         id="text70-0-7"><tspan
+           sodipodi:role="line"
+           id="tspan70-5-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+           x="-245.15523"
+           y="805.56909">Search reviewer by name, email, phone, id...</tspan></text>
+    </g>
+    <g
+       id="g66-7"
+       transform="translate(1076.9654,1514.5881)">
+      <g
+         id="g8-2"
+         transform="translate(-282.794,899.16091)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect8-0"
+           width="126.63359"
+           height="10.374886"
+           x="32.822956"
+           y="-99.847954"
+           ry="4.065639" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="-245.15523"
+         y="805.56909"
+         id="text70-0-3"><tspan
+           sodipodi:role="line"
+           id="tspan70-5-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+           x="-245.15523"
+           y="805.56909">Search admin by name, email, phone, id...</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="819.93842"
+       y="2304.5908"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         style="text-align:end;text-anchor:end;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+         x="819.93842"
+         y="2304.5908">Reviewer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="819.93842"
+       y="2320.1572"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="text-align:end;text-anchor:end;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+         x="819.93842"
+         y="2320.1572">Admin</tspan></text>
+    <g
+       id="g822-3"
+       transform="translate(866.46404,2363.3024)"
+       onmouseover=""
+       style="fill:#0074e5;fill-opacity:1">
+      <rect
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect822-8"
+         width="29.123104"
+         height="9.7077017"
+         x="95.774269"
+         y="-31.722101"
+         ry="2.8603022" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="106.93068"
+         y="-25.069216"
+         id="text822-6"><tspan
+           sodipodi:role="line"
+           id="tspan822-1"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.79375"
+           x="106.93068"
+           y="-25.069216">OK</tspan></text>
+    </g>
+    <g
+       id="g75"
+       transform="translate(278.555,-18.155704)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect101-5"
+         width="29.123104"
+         height="9.7077017"
+         x="683.28644"
+         y="2316.824"
+         ry="2.8603022" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="697.93475"
+         y="2323.4768"
+         id="text102-2"><tspan
+           sodipodi:role="line"
+           id="tspan102-0"
+           style="text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke-width:0.79375"
+           x="697.93475"
+           y="2323.4768">Search</tspan></text>
+    </g>
+    <g
+       id="g157"
+       transform="translate(278.555,-2.5893042)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect82"
+         width="29.123104"
+         height="9.7077017"
+         x="683.28644"
+         y="2316.824"
+         ry="2.8603022" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="697.93475"
+         y="2323.4768"
+         id="text146"><tspan
+           sodipodi:role="line"
+           id="tspan146"
+           style="text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke-width:0.79375"
+           x="697.93475"
+           y="2323.4768">Search</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="803.64758"
+       y="2337.9763"
+       id="text249"><tspan
+         sodipodi:role="line"
+         id="tspan249"
+         style="text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+         x="803.64758"
+         y="2337.9763">Assigning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="888.72571"
+       y="2337.9763"
+       id="text250"><tspan
+         sodipodi:role="line"
+         id="tspan250"
+         style="text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+         x="888.72571"
+         y="2337.9763">to</tspan></text>
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+       d="m 826.83486,2341.038 h 54.27255"
+       id="path273" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+       d="m 898.6959,2341.038 h 54.27255"
+       id="path274" />
+    <rect
+       style="fill:none;stroke:#0074e5;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+       id="rect274"
+       width="182.14276"
+       height="102.2645"
+       x="810.93805"
+       y="2358.5261"
+       rx="6.697485"
+       ry="6.697485" />
+    <rect
+       style="fill:#0074e5;fill-opacity:1;stroke:#0074e5;stroke-width:0.900735;stroke-linecap:round;stroke-opacity:1"
+       id="rect275"
+       width="182.14284"
+       height="12.638035"
+       x="810.93805"
+       y="2358.5261"
+       rx="0"
+       ry="0"
+       clip-path="url(#clipPath281)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="819.7431"
+       y="2366.6123"
+       id="text381"><tspan
+         sodipodi:role="line"
+         id="tspan381"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+         x="819.7431"
+         y="2366.6123">Sl No.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="846.5423"
+       y="2366.6123"
+       id="text382"><tspan
+         sodipodi:role="line"
+         id="tspan382"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+         x="846.5423"
+         y="2366.6123">ONS ID</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="883.85815"
+       y="2366.6123"
+       id="text383"><tspan
+         sodipodi:role="line"
+         id="tspan383"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+         x="883.85815"
+         y="2366.6123">Name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="929.24768"
+       y="2366.6123"
+       id="text384"><tspan
+         sodipodi:role="line"
+         id="tspan384"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+         x="929.24768"
+         y="2366.6123">Email</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="973.9837"
+       y="2366.6123"
+       id="text385"><tspan
+         sodipodi:role="line"
+         id="tspan385"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+         x="973.9837"
+         y="2366.6123">Phone Number</tspan></text>
+    <g
+       id="g802"
+       transform="translate(235.74408)">
+      <rect
+         style="opacity:0.254839;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;filter:url(#filter1080)"
+         id="rect795"
+         width="215.99089"
+         height="211.36212"
+         x="794.77374"
+         y="2269.3049"
+         ry="20.482626" />
+      <rect
+         style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none"
+         id="rect796"
+         width="215.99089"
+         height="211.36212"
+         x="794.77374"
+         y="2269.3049"
+         ry="20.482626" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.52433px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:30.2044;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="1138.765"
+       y="2285.6577"
+       id="text824"><tspan
+         sodipodi:role="line"
+         id="tspan824"
+         style="text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:none;stroke-width:30.2044"
+         x="1138.765"
+         y="2285.6577">Assign Contributor to Reviewer</tspan></text>
+    <g
+       id="g827"
+       transform="translate(1313.4692,1499.0217)">
+      <g
+         id="g824"
+         transform="translate(-282.794,899.16091)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect824"
+           width="126.22409"
+           height="10.374886"
+           x="32.822956"
+           y="-99.847954"
+           ry="4.065639" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="-245.15523"
+         y="805.56909"
+         id="text825"><tspan
+           sodipodi:role="line"
+           id="tspan825"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+           x="-245.15523"
+           y="805.56909">Search contributor by name, email, phone, id...</tspan></text>
+    </g>
+    <g
+       id="g829"
+       transform="translate(1313.4692,1514.5881)">
+      <g
+         id="g828"
+         transform="translate(-282.794,899.16091)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.818995;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect827"
+           width="126.63359"
+           height="10.374886"
+           x="32.822956"
+           y="-99.847954"
+           ry="4.065639" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="-245.15523"
+         y="805.56909"
+         id="text828"><tspan
+           sodipodi:role="line"
+           id="tspan828"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#999999;stroke:none;stroke-width:0.79375"
+           x="-245.15523"
+           y="805.56909">Search reviewer by name, email, phone, id...</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="1056.4423"
+       y="2304.5908"
+       id="text829"><tspan
+         sodipodi:role="line"
+         id="tspan829"
+         style="text-align:end;text-anchor:end;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+         x="1056.4423"
+         y="2304.5908">Contributor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="1056.4423"
+       y="2320.1572"
+       id="text830"><tspan
+         sodipodi:role="line"
+         id="tspan830"
+         style="text-align:end;text-anchor:end;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+         x="1056.4423"
+         y="2320.1572">Reviewer</tspan></text>
+    <g
+       id="g831"
+       transform="translate(1102.9679,2363.3024)"
+       onmouseover=""
+       style="fill:#0074e5;fill-opacity:1">
+      <rect
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect830"
+         width="29.123104"
+         height="9.7077017"
+         x="95.774269"
+         y="-31.722101"
+         ry="2.8603022" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="106.93068"
+         y="-25.069216"
+         id="text831"><tspan
+           sodipodi:role="line"
+           id="tspan831"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.79375"
+           x="106.93068"
+           y="-25.069216">OK</tspan></text>
+    </g>
+    <g
+       id="g834"
+       transform="translate(515.05883,-18.155704)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect831"
+         width="29.123104"
+         height="9.7077017"
+         x="683.28644"
+         y="2316.824"
+         ry="2.8603022" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="697.93475"
+         y="2323.4768"
+         id="text832"><tspan
+           sodipodi:role="line"
+           id="tspan832"
+           style="text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke-width:0.79375"
+           x="697.93475"
+           y="2323.4768">Search</tspan></text>
+    </g>
+    <g
+       id="g835"
+       transform="translate(515.05883,-2.5893042)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#0074e5;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect834"
+         width="29.123104"
+         height="9.7077017"
+         x="683.28644"
+         y="2316.824"
+         ry="2.8603022" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="697.93475"
+         y="2323.4768"
+         id="text834"><tspan
+           sodipodi:role="line"
+           id="tspan834"
+           style="text-align:center;text-anchor:middle;fill:#0074e5;fill-opacity:1;stroke-width:0.79375"
+           x="697.93475"
+           y="2323.4768">Search</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="1040.1514"
+       y="2337.9763"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan835"
+         style="text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+         x="1040.1514"
+         y="2337.9763">Assigning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="1125.2295"
+       y="2337.9763"
+       id="text836"><tspan
+         sodipodi:role="line"
+         id="tspan836"
+         style="text-align:start;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:15.0004"
+         x="1125.2295"
+         y="2337.9763">to</tspan></text>
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+       d="m 1063.3387,2341.038 h 54.2725"
+       id="path889" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+       d="m 1135.1997,2341.038 h 54.2726"
+       id="path890" />
+    <rect
+       style="fill:none;stroke:#0074e5;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+       id="rect965"
+       width="182.14276"
+       height="102.2645"
+       x="1047.4419"
+       y="2358.5261"
+       rx="6.697485"
+       ry="6.697485" />
+    <rect
+       style="fill:#0074e5;fill-opacity:1;stroke:#0074e5;stroke-width:0.900735;stroke-linecap:round;stroke-opacity:1"
+       id="rect966"
+       width="182.14284"
+       height="12.638035"
+       x="810.93805"
+       y="2358.5261"
+       rx="0"
+       ry="0"
+       clip-path="url(#clipPath281)"
+       transform="translate(236.50383)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="1056.2469"
+       y="2366.6123"
+       id="text966"><tspan
+         sodipodi:role="line"
+         id="tspan966"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+         x="1056.2469"
+         y="2366.6123">Sl No.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="1083.0461"
+       y="2366.6123"
+       id="text967"><tspan
+         sodipodi:role="line"
+         id="tspan967"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+         x="1083.0461"
+         y="2366.6123">ONS ID</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="1120.3619"
+       y="2366.6123"
+       id="text968"><tspan
+         sodipodi:role="line"
+         id="tspan968"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+         x="1120.3619"
+         y="2366.6123">Name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="1165.7515"
+       y="2366.6123"
+       id="text969"><tspan
+         sodipodi:role="line"
+         id="tspan969"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+         x="1165.7515"
+         y="2366.6123">Email</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23342px;line-height:1.4;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:15.0004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="1210.4875"
+       y="2366.6123"
+       id="text970"><tspan
+         sodipodi:role="line"
+         id="tspan970"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:15.0004"
+         x="1210.4875"
+         y="2366.6123">Phone Number</tspan></text>
   </g>
 </svg>
