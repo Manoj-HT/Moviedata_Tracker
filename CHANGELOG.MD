@@ -1,3 +1,10 @@
+# 1.r18.0.n22.11.i2
+
+1. added assign to reviewer for contributor while creating user
+2. added hover actions for wrong marking
+3. added more sections
+4. ensured groups of all pages
+
 # 1.r18.0.n22.10.i2
 
 1. login page eye icon added
