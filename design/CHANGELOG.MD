@@ -1,3 +1,7 @@
+# 14
+
+1. added admin profile view
+
 # 13
 
 1. removed actions in admin metalist

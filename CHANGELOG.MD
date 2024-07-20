@@ -1,3 +1,7 @@
+# 1.r18.0.n22.14.i2
+
+1. added admin profile view
+
 # 1.r18.0.n22.13.i2
 
 1. removed actions in admin metalist
