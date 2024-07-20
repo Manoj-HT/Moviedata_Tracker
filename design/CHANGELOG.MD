@@ -1,3 +1,9 @@
+# 13
+
+1. removed actions in admin metalist
+2. added admin metaview to view individual metadata 
+3. added actions with details to mark meatadata as wrong
+
 # 12
 
 1. added admin manage view for reassignment of contributors and admin

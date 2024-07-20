@@ -1,4 +1,10 @@
-# 1.r18.0.n22.11.i2
+# 1.r18.0.n22.13.i2
+
+1. removed actions in admin metalist
+2. added admin metaview to view individual metadata 
+3. added actions with details to mark meatadata as wrong
+
+# 1.r18.0.n22.12.i2
 
 1. added admin manage view for reassignment of contributors and admin
 
