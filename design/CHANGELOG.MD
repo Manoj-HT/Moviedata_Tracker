@@ -1,3 +1,7 @@
+# 15
+
+1. added details for profile view for admin
+
 # 14
 
 1. added admin profile view

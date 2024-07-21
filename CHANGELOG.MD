@@ -1,3 +1,7 @@
+# 1.r18.0.n22.15.i2
+
+1. added details for profile view for admin
+
 # 1.r18.0.n22.14.i2
 
 1. added admin profile view
