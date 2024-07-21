@@ -1,3 +1,10 @@
+# 16
+
+1. updated profile view of users for admin
+2. added navigation pane for admin
+3. rearranged screens of admin view
+4. added navigation pane for reviewer
+
 # 15
 
 1. added details for profile view for admin
