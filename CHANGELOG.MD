@@ -1,3 +1,9 @@
+# 1.r18.0.n22.19.i2
+
+1. added contributor dashboard
+2. added contributor metadata list and view with cast adding
+3. completed 3 roles design
+
 # 1.r18.0.n22.18.i2
 
 1. added contributor navigation 

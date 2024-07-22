@@ -1,3 +1,9 @@
+# 19
+
+1. added contributor dashboard
+2. added contributor metadata list and view with cast adding
+3. completed 3 roles design
+
 # 18
 
 1. added contributor navigation 
