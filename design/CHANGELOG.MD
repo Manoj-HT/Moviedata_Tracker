@@ -1,3 +1,9 @@
+# 17
+
+1. added reviewer dashboard
+2. added reviewer metadata list and view
+3. added contributor list
+
 # 16
 
 1. updated profile view of users for admin
