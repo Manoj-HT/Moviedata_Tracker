@@ -1,3 +1,10 @@
+# 18
+
+1. added contributor navigation 
+2. changed video icon for default video box
+3. added reviewer profile
+4. added contributor profile view
+
 # 17
 
 1. added reviewer dashboard

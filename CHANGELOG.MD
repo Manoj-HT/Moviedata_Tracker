@@ -1,3 +1,10 @@
+# 1.r18.0.n22.18.i2
+
+1. added contributor navigation 
+2. changed video icon for default video box
+3. added reviewer profile
+4. added contributor profile view
+
 # 1.r18.0.n22.17.i2
 
 1. added reviewer dashboard
