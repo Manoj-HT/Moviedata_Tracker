@@ -1,3 +1,14 @@
+# 20
+
+1. added login view for mobile
+2. added navigation pane style for mobile
+3. added dashboard style for mobile view
+4. added table view for mobile view
+5. added icons for navigation list in desktop view
+6. added icon assets
+7. removed home icon in navigation bar in desktop view
+8. added page wise heading in navigation bar in desktop view
+
 # 19
 
 1. added contributor dashboard

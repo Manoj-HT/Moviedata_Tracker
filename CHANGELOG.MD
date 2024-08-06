@@ -1,3 +1,14 @@
+# 1.r18.0.n22.20.i2
+
+1. added login view for mobile
+2. added navigation pane style for mobile
+3. added dashboard style for mobile view
+4. added table view for mobile view
+5. added icons for navigation list in desktop view
+6. added icon assets
+7. removed home icon in navigation bar in desktop view
+8. added page wise heading in navigation bar in desktop view
+
 # 1.r18.0.n22.19.i2
 
 1. added contributor dashboard
