@@ -1,3 +1,8 @@
+# 21
+
+1. removed create user heading in create user in desktop view
+2. added create user iew and assign to reviewer for mobile view
+
 # 20
 
 1. added login view for mobile
