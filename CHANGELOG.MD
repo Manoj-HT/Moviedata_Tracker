@@ -1,3 +1,8 @@
+# 1.r18.0.n22.22.i2
+
+1. added metdata view for mobile view
+2. added assign reviewer to admin view started
+
 # 1.r18.0.n22.21.i2
 
 1. removed create user heading in create user in desktop view

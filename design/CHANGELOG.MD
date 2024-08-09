@@ -1,7 +1,12 @@
+# 22
+
+1. added metdata view for mobile view
+2. added assign reviewer to admin view started
+
 # 21
 
 1. removed create user heading in create user in desktop view
-2. added create user iew and assign to reviewer for mobile view
+2. added create user view and assign to reviewer for mobile view
 
 # 20
 
