@@ -1,3 +1,8 @@
+# 1.r18.0.n22.23.i2
+
+1. changed icons of edit and delete in assign to reviewer in create user 
+2. added styles for assign page in mobile view
+
 # 1.r18.0.n22.22.i2
 
 1. added metdata view for mobile view

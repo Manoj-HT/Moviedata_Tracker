@@ -1,3 +1,8 @@
+# 23
+
+1. changed icons of edit and delete in assign to reviewer in create user 
+2. added styles for assign page in mobile view
+
 # 22
 
 1. added metdata view for mobile view
