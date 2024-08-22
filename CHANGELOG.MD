@@ -1,3 +1,8 @@
+# 2.r18.0.n22.23.i2
+
+1. added login page with styles
+2. Setup guards, routes, hooks, default pages, styles and utilities from starter project
+
 # 1.r18.0.n22.23.i2
 
 1. changed icons of edit and delete in assign to reviewer in create user 

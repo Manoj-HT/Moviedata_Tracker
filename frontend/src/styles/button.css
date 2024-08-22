@@ -1,0 +1,98 @@
+button {
+    padding: 5px;
+    border-radius: 0.7rem;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    transition-duration: 0.3s;
+  }
+  
+  button:hover {
+    transform: scale(1.03);
+  }
+  
+  button:active {
+    transform: scale(0.95);
+  }
+  
+  .btn-primary-full,
+  .btn-danger-full,
+  .btn-success-full,
+  .btn-primary-hollow,
+  .btn-danger-hollow,
+  .btn-success-hollow {
+    border: 2px solid;
+  }
+  
+  .btn-primary-full,
+  .btn-danger-full,
+  .btn-success-full {
+    color: white;
+  }
+  
+  .btn-primary-full {
+    border-color: var(--theme-color);
+    background-color: var(--theme-color);
+  }
+  .btn-danger-full {
+    border-color: var(--danger);
+    background-color: var(--danger);
+  }
+  .btn-success-full {
+    border: var(--success);
+    background-color: var(--success);
+  }
+  
+  .btn-primary-hollow {
+    border-color: var(--theme-color);
+    color: var(--theme-color);
+  }
+  .btn-danger-hollow {
+    border-color: var(--danger);
+    color: var(--danger);
+  }
+  .btn-success-hollow {
+    border-color: var(--success);
+    color: var(--success);
+  }
+  
+  .btn-primary-hollow:hover,
+  .btn-danger-hollow:hover,
+  .btn-success-hollow:hover {
+    color: white;
+  }
+  
+  .btn-primary-hollow:hover{
+      background-color: var(--theme-color);
+  }
+  .btn-danger-hollow:hover{
+      background-color: var(--danger);
+  }
+  .btn-success-hollow:hover{
+      background-color: var(--success);
+  }
+  
+  .btn-primary-full:disabled,
+  .btn-danger-full:disabled,
+  .btn-success-full:disabled,
+  .btn-primary-hollow:disabled,
+  .btn-danger-hollow:disabled,
+  .btn-success-hollow:disabled {
+    cursor: not-allowed;
+  }
+  
+  .btn-primary-full:disabled,
+  .btn-danger-full:disabled,
+  .btn-success-full:disabled {
+    background-color: var(--background-gray);
+    border-color: var(--background-gray);
+  }
+  
+  .btn-primary-hollow:disabled,
+  .btn-danger-hollow:disabled,
+  .btn-success-hollow:disabled {
+    border-color: var(--background-gray);
+    color: var(--background-gray);
+  }
+  
+  

@@ -1,8 +1,6 @@
+import "./App.css";
+import Core from "./Core";
 
-function App() {
-  return (
-   <></>
-  )
-}
+const App = () => <Core />
 
-export default App
+export default App;

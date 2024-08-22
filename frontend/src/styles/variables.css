@@ -1,0 +1,11 @@
+:root {
+    --danger : red;
+    --theme-color : rgb(0,116,229);
+    --success : green;
+    --mode : white;
+    --border-radius-1 : 12px;
+    --border-radius-2 : 2rem;
+    --box-shadow-1 : 0 0 20px rgba(0, 0, 255, 0.2);
+    --box-shadow-2 : 0 0 20px rgba(0, 0, 255, 0.5);
+    --background-gray : rgb(178, 178, 178);
+}
