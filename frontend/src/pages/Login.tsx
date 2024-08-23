@@ -2,7 +2,11 @@ import { StyleMap } from "../types/types";
 import login_background from "../assets/login_background.svg";
 import { EmailInput, PasswordInput } from "../components/FormElements";
 import { useMediaQuery } from "../hooks/useMediaQuery";
+import { useForm } from "../hooks/useForm";
+import { emailValidation, passwordValidation } from "../utilities/validators";
+
 const Login = () => {
+  //styles
   const mediaQuery = {
     max768: useMediaQuery("(max-width:769px)"),
     max425: useMediaQuery("(max-width:426px)"),
@@ -69,6 +73,7 @@ const Login = () => {
     },
   };
 
+  //functions
   const greetingsWithProductName = (
     <>
       <h4 style={{ ...styles.align_text }}>Welcome</h4>
@@ -77,6 +82,16 @@ const Login = () => {
       </p>
     </>
   );
+
+  const loginForm = useForm({
+    email: ["", emailValidation],
+    password: ["", passwordValidation(6, 16, "$@!.,", true)],
+  });
+
+  const email = () => loginForm.get("email");
+  const password = () => loginForm.get("password");
+
+  //template
   return (
     <div data-page="Login" style={styles.container}>
       <img
@@ -95,13 +110,13 @@ const Login = () => {
             <p style={{ ...styles.align_text, ...styles.text_margin }}>Email</p>
           )}
           <EmailInput
-            changeFn={() => {}}
-            error={false}
+            error={email().error}
             id="email"
-            inputFn={() => {}}
+            inputFn={loginForm.handleInput}
             name="email"
             placeholder="Enter you email"
             style={styles.form_element}
+            value={email().value}
           />
           {mediaQuery.min768 && (
             <p style={{ ...styles.align_text, ...styles.text_margin }}>
@@ -109,19 +124,19 @@ const Login = () => {
             </p>
           )}
           <PasswordInput
-            changeFn={() => {}}
-            error={false}
+            error={password().error}
             id="password"
-            inputFn={() => {}}
+            inputFn={loginForm.handleInput}
             name="password"
             placeholder="Enter you email"
             style={styles.form_element}
+            value={password().value}
           />
           <button
             type="button"
             className="btn-primary-full"
             style={styles.submit_button}
-            disabled
+            disabled={loginForm.submitDisable}
           >
             Submit
           </button>

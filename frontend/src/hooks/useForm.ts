@@ -59,7 +59,6 @@ export const useForm = (initialForm: InitialFormType) => {
       let controlName = input.name;
       setCurrentControl(controlName);
       let error = 0;
-      console.log(input.value)
       if (form[controlName].validators.length != 0) {
         for (let validateFn of form[controlName].validators) {
           if (!validateFn(input.value)) {
@@ -111,6 +110,8 @@ export const useForm = (initialForm: InitialFormType) => {
       }
       return value;
     };
+
+    const submitDisable = !touched || error
   
     return {
       form,
@@ -124,6 +125,7 @@ export const useForm = (initialForm: InitialFormType) => {
       value,
       currentControl,
       valid,
-      inValid
+      inValid,
+      submitDisable
     };
   };

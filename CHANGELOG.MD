@@ -1,3 +1,10 @@
+# 3.r18.0.n22.23.i2
+
+1. added logic for submit button disabling and enabling
+2. added submit button disable handle in useForm
+3. added data-wrapper for page
+4. updated form elements to take value
+
 # 2.r18.0.n22.23.i2
 
 1. added login page with styles

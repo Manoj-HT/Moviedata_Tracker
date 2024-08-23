@@ -30,7 +30,7 @@ const Core = () => {
       <GlobalStatesManager>
         <div data-wrapper="Core" style={styles.container}>
           {isNavigation && <TopNavigation />}
-          <div style={styles.outlet_wrapper}>
+          <div data-wrapper='page' style={styles.outlet_wrapper}>
             <Outlet />
           </div>
         </div>

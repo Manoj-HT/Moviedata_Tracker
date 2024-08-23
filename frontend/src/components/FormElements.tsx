@@ -16,7 +16,8 @@ const styles: CSSProperties = {
 
 //components
 export const TextInput = (props: TextInputProps) => {
-  const { placeholder, name, id, inputFn, changeFn, error, style } = props;
+  const { placeholder, name, id, inputFn, changeFn, error, style, value } =
+    props;
   const textStyle = { ...styles, ...style };
   const textStyleDanger = { ...styles, ...style, borderColor: "var(--danger)" };
   return (
@@ -28,12 +29,14 @@ export const TextInput = (props: TextInputProps) => {
       id={id}
       onInput={inputFn}
       onChange={changeFn}
+      value={value}
     />
   );
 };
 
 export const EmailInput = (props: EmailInputProps) => {
-  const { placeholder, name, id, inputFn, error, changeFn, style } = props;
+  const { placeholder, name, id, inputFn, error, changeFn, style, value } =
+    props;
   const emailStyle = { ...styles, ...style };
   const emailStyleDanger = {
     ...styles,
@@ -49,12 +52,14 @@ export const EmailInput = (props: EmailInputProps) => {
       id={id}
       onInput={inputFn}
       onChange={changeFn}
+      value={value}
     />
   );
 };
 
 export const PasswordInput = (props: PasswordInputProps) => {
-  const { placeholder, name, id, inputFn, changeFn, error, style } = props;
+  const { placeholder, name, id, inputFn, changeFn, error, style, value } =
+    props;
   const passwordStyle = { ...styles, ...style };
   const passwordStyleDanger = {
     ...styles,
@@ -70,6 +75,7 @@ export const PasswordInput = (props: PasswordInputProps) => {
       id={id}
       onInput={inputFn}
       onChange={changeFn}
+      value={value}
     />
   );
 };

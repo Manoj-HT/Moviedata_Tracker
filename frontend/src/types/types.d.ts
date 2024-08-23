@@ -49,7 +49,8 @@ type InputProps = {
   error?: boolean;
   inputFn?: (e: SyntheticEvent) => void;
   changeFn?: (e: SyntheticEvent) => void;
-  style?: CSSProperties
+  style?: CSSProperties;
+  value? : any
 };
 type TextInputProps = InputProps & {};
 type EmailInputProps = InputProps & {};
