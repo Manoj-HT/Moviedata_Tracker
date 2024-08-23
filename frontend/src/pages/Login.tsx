@@ -4,6 +4,8 @@ import { EmailInput, PasswordInput } from "../components/FormElements";
 import { useMediaQuery } from "../hooks/useMediaQuery";
 import { useForm } from "../hooks/useForm";
 import { emailValidation, passwordValidation } from "../utilities/validators";
+import { useNavigate } from "react-router-dom";
+import { useEffect } from "react";
 
 const Login = () => {
   //styles
@@ -73,7 +75,7 @@ const Login = () => {
     },
   };
 
-  //functions
+  //variables
   const greetingsWithProductName = (
     <>
       <h4 style={{ ...styles.align_text }}>Welcome</h4>
@@ -83,13 +85,29 @@ const Login = () => {
     </>
   );
 
+  //navigations
+  const navigate = useNavigate();
+  useEffect(() => {
+    localStorage.getItem("token") && navigate("/statistics");
+  }, []);
+
+  //loginform
+  const loginObject = { email: null as any, password: null as any };
   const loginForm = useForm({
     email: ["", emailValidation],
     password: ["", passwordValidation(6, 16, "$@!.,", true)],
-  });
-
+  } as typeof loginObject);
   const email = () => loginForm.get("email");
   const password = () => loginForm.get("password");
+  const handleSubmit = () => {
+    let obj = loginForm.value() as typeof loginObject;
+    let user = (obj.email as string).split("@")[0];
+    if(user == 'admin' || user == 'contributor' || user == 'reviewer'){
+      localStorage.setItem("token", btoa(user));
+      localStorage.setItem("role", user);
+      navigate("/statistics");
+    }
+  };
 
   //template
   return (
@@ -137,6 +155,7 @@ const Login = () => {
             className="btn-primary-full"
             style={styles.submit_button}
             disabled={loginForm.submitDisable}
+            onClick={handleSubmit}
           >
             Submit
           </button>

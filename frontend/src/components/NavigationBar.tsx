@@ -5,7 +5,7 @@ const TopNavigation = () => {
   const styles : StyleMap<TopNavigationStyles> = {
     container :{
       height : '3rem',
-      boxShadow : global.colors.boxShadow,
+      boxShadow : global.colors.boxShadow1,
     }
   }
   return (
@@ -16,3 +16,9 @@ const TopNavigation = () => {
 export default TopNavigation
 
 type TopNavigationStyles = "container"
+
+export function getNavigationStateFromURL(url: string): boolean {
+  const currentPath = url.split("/")[1];
+  const navigationDisablingPaths = ["login"];
+  return !navigationDisablingPaths.includes(currentPath);
+}

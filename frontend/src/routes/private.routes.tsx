@@ -1,7 +1,13 @@
 import { RouteObject } from "react-router-dom";
 import { AuthGuard } from "../guards/AuthGuard";
+import Statistics from "../pages/Statistics";
 
-let routes = [] as RouteObject[];
+let routes = [
+  {
+    path : 'statistics',
+    element : <Statistics />
+  }
+] as RouteObject[];
 
 export const private_routes = () => {
   for (let route of routes) {

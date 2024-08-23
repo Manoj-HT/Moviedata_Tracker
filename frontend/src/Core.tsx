@@ -1,5 +1,5 @@
 import GlobalStatesManager from "./global_states/GlobalStatesManager";
-import TopNavigation from "./components/NavigationBar";
+import TopNavigation, { getNavigationStateFromURL } from "./components/NavigationBar";
 import { Outlet, useLocation } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { StyleMap } from "./types/types";
@@ -41,10 +41,6 @@ const Core = () => {
 
 export default Core;
 
-function getNavigationStateFromURL(url: string): boolean {
-  const currentPath = url.split("/")[1];
-  const navigationDisablingPaths = ["login"];
-  return !navigationDisablingPaths.includes(currentPath);
-}
+
 
 type CoreStyles = "container" | "outlet_wrapper";

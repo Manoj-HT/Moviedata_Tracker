@@ -1,3 +1,11 @@
+# 4
+
+1. added statistics page
+2. added route for statistics
+3. added logic for not routing if authenticated
+4. added logic to authenticate if user is only admin, reviewer or contributor
+5. moved navigation state function to navigation component
+
 # 3
 
 1. added logic for submit button disabling and enabling
